@@ -1,0 +1,48 @@
+{
+  "modelType": "rule_based_baseline_v1",
+  "trainedAt": "2026-03-19T00:00:00.000Z",
+  "description": "Baseline pricing model derived from typical scrap market rates",
+
+  "pricingMatrix": {
+    "ewaste": {
+      "delhi": {
+        "Good": 70,
+        "Poor": 50,
+        "Very Poor": 40
+      },
+      "mumbai": {
+        "Good": 75,
+        "Poor": 55,
+        "Very Poor": 45
+      },
+      "bangalore": {
+        "Good": 72,
+        "Poor": 52,
+        "Very Poor": 42
+      }
+    },
+
+    "plastic": {
+      "delhi": {
+        "Good": 25,
+        "Poor": 18
+      }
+    },
+
+    "metal": {
+      "delhi": {
+        "Good": 60,
+        "Poor": 45
+      }
+    },
+
+    "paper": {
+      "delhi": {
+        "Good": 15,
+        "Poor": 10
+      }
+    }
+  },
+
+  "defaultPricePerKg": 50
+}

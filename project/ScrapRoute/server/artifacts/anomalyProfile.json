@@ -1,0 +1,27 @@
+{
+  "trainedAt": "2026-03-20T16:53:00.748Z",
+  "numericProfile": {
+    "weightKg": {
+      "mean": 5,
+      "std": 2
+    },
+    "sellerRating": {
+      "mean": 4,
+      "std": 1
+    }
+  },
+  "categoryProfile": {
+    "scrapType": {
+      "ewaste": 0.6,
+      "plastic": 0.2,
+      "metal": 0.2
+    },
+    "city": {
+      "delhi": 1
+    },
+    "condition": {
+      "Good": 0.7,
+      "Poor": 0.3
+    }
+  }
+}

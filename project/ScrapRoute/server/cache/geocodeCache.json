@@ -1,0 +1,37 @@
+{
+  "patna": {
+    "lat": 25.6093239,
+    "lng": 85.1235252,
+    "displayName": "Patna, Patna Rural, Patna, Bihar, 800001, India"
+  },
+  "h-135, sector-12, noida": {
+    "lat": 28.5951184,
+    "lng": 77.3384862,
+    "displayName": "Sector 12, Sector 10, Noida, Dadri, Gautam Buddha Nagar, Uttar Pradesh, India"
+  },
+  "jaipur": {
+    "lat": 26.9154576,
+    "lng": 75.8189817,
+    "displayName": "Jaipur, Jaipur Municipal Corporation, Jaipur Tehsil, Jaipur, Rajasthan, 302001, India"
+  },
+  "newai": {
+    "lat": 25.9817533,
+    "lng": 72.3245108,
+    "displayName": "Newai, Pachpadra Tehsil, Balotra, Rajasthan, India"
+  },
+  "amer,rajasthan": {
+    "lat": 26.9885137,
+    "lng": 75.8594847,
+    "displayName": "Amer, Amer Road, Chandra Mahal Colony, Amer Chak No. 1, Jaipur Municipal Corporation, Amber Tehsil, Jaipur, Rajasthan, 302036, India"
+  },
+  "amer fort,jaipur": {
+    "lat": 26.9863104,
+    "lng": 75.8506607,
+    "displayName": "Amer Fort, to Jaigarh Fort, kundalaoo Colony, Amber, Jaipur Municipal Corporation, Amber Tehsil, Jaipur, Rajasthan, 303101, India"
+  },
+  "bihar": {
+    "lat": 25.6440845,
+    "lng": 85.906508,
+    "displayName": "Bihar, India"
+  }
+}

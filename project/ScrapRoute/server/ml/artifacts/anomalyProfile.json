@@ -1,0 +1,46 @@
+{
+  "modelType": "statistical_anomaly_v1",
+  "trainedAt": "2026-03-19T00:00:00.000Z",
+
+  "numericProfile": {
+    "weightKg": {
+      "mean": 8,
+      "std": 5
+    },
+    "pickupDistanceKm": {
+      "mean": 6,
+      "std": 3
+    },
+    "demandIndex": {
+      "mean": 1.2,
+      "std": 0.4
+    },
+    "sellerRating": {
+      "mean": 4,
+      "std": 1
+    },
+    "pricePerKg": {
+      "mean": 50,
+      "std": 20
+    }
+  },
+
+  "categoryProfile": {
+    "scrapType": {
+      "ewaste": 0.6,
+      "plastic": 0.2,
+      "metal": 0.1,
+      "paper": 0.1
+    },
+    "city": {
+      "delhi": 0.5,
+      "mumbai": 0.3,
+      "bangalore": 0.2
+    },
+    "condition": {
+      "Good": 0.6,
+      "Poor": 0.3,
+      "Very Poor": 0.1
+    }
+  }
+}
